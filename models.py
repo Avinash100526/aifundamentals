@@ -1,1 +1,1 @@
-print("Hey there! Avinash... What's up??")
+print("Hey there! Avinash...\nWhat's up?")
